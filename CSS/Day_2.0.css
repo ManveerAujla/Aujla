@@ -1,0 +1,23 @@
+body {
+   background-color: wheat;
+
+}
+h1 {
+    font-family: Tilt Prism, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-family: mukta, sans-serif;
+    font-size: medium;
+
+}
+h2{
+    font-family: mukta;
+}
+#class{
+    font-size: small;
+    border-style: outset;
+    border-color: chocolate;
+    padding: 2px;
+
+  }
